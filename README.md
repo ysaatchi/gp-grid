@@ -8,7 +8,7 @@ Structured Gaussian Processes." to appear TPAMI (2013).
 
 Feel free to email with any questions:
 [Elad Gilboa] (gilboae@ese.wustl.edu)
-
+[Yunus Saatchi] (yunus@nusquared.co.uk)
 
 ### Instructions:
 
